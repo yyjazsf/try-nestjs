@@ -1,10 +1,9 @@
 {
-  "name": "nestjs-demo",
+  "name": "nestjs",
   "version": "0.0.1",
   "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "author": "YingYujia",
+  "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
